@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|solutionrelative:grpc.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.client\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|solutionrelative:grpc.client\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.client\\protos\\province.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|solutionrelative:grpc.client\\protos\\province.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\protos\\province.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\protos\\province.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\services\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\services\\provinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.client\\grpc.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29D59104-29F0-4EBD-907C-8311A3D690A2}|gRPC.Client\\gRPC.Client.csproj|solutionrelative:grpc.client\\grpc.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|c:\\users\\legion\\desktop\\grpc.service\\src\\grpc.server\\grpc.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B1EC304-862E-4EA5-84C7-BCF996B35ECD}|gRPC.Server\\gRPC.Server.csproj|solutionrelative:grpc.server\\grpc.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Program.cs",
+              "RelativeDocumentMoniker": "gRPC.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Program.cs",
+              "RelativeToolTip": "gRPC.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:06:35.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "gRPC.Server\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Services\\GreeterService.cs",
+              "RelativeToolTip": "gRPC.Server\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:05:14.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "gRPC.Server\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Protos\\greet.proto",
+              "RelativeToolTip": "gRPC.Server\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-04T07:04:43.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "gRPC.Client\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\Protos\\greet.proto",
+              "RelativeToolTip": "gRPC.Client\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-04T07:03:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "province.proto",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\Protos\\province.proto",
+              "RelativeDocumentMoniker": "gRPC.Client\\Protos\\province.proto",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\Protos\\province.proto",
+              "RelativeToolTip": "gRPC.Client\\Protos\\province.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-04T07:03:53.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\Program.cs",
+              "RelativeDocumentMoniker": "gRPC.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\Program.cs",
+              "RelativeToolTip": "gRPC.Client\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:54:05.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "gRPC.Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Startup.cs",
+              "RelativeToolTip": "gRPC.Server\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:52:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "province.proto",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Protos\\province.proto",
+              "RelativeDocumentMoniker": "gRPC.Server\\Protos\\province.proto",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Protos\\province.proto",
+              "RelativeToolTip": "gRPC.Server\\Protos\\province.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-04T06:49:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProvinceService.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Services\\ProvinceService.cs",
+              "RelativeDocumentMoniker": "gRPC.Server\\Services\\ProvinceService.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Services\\ProvinceService.cs",
+              "RelativeToolTip": "gRPC.Server\\Services\\ProvinceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:51:34.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gRPC.Client",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\gRPC.Client.csproj",
+              "RelativeDocumentMoniker": "gRPC.Client\\gRPC.Client.csproj",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Client\\gRPC.Client.csproj",
+              "RelativeToolTip": "gRPC.Client\\gRPC.Client.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T06:54:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "gRPC.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "gRPC.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T07:02:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gRPC.Server",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\gRPC.Server.csproj",
+              "RelativeDocumentMoniker": "gRPC.Server\\gRPC.Server.csproj",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\gRPC.Service\\src\\gRPC.Server\\gRPC.Server.csproj",
+              "RelativeToolTip": "gRPC.Server\\gRPC.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T06:49:44.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

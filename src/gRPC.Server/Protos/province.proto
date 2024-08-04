@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPC.Server";
+
+package provine;
+
+service ProvinceRPC {
+	rpc GetProvinceDetail(GetProvinceRequest) returns (GetProvinceReply);
+}
+
+message GetProvinceRequest {
+	string id = 1;
+}
+
+message GetProvinceReply {
+	string id = 1;
+	string name = 2;
+	string level = 3;
+	repeated District districts = 4;
+}
+
+message District {
+	string id = 1;
+	string name = 2;
+	string level = 3;
+}
